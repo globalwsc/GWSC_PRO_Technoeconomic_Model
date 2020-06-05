@@ -5,7 +5,7 @@ This excel model focuses on the economic parameters for pressure retarded osmosi
 
 There are 24 inputs to the model, in two categories: I. Key process variables (6) II. General inputs (18)
 
-The key process variables include: a. DS salinity, operating pressure and % dilution b. FS salinity, influent flow and % volume reduction
+The key process variables include: DS salinity, operating pressure and % dilution b. FS salinity, influent flow and % volume reduction
 
 For more details please refer to the following publication:
 
