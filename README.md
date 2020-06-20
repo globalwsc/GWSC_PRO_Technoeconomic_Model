@@ -7,4 +7,4 @@ There are 24 inputs to the model, in two categories: I. Key process variables (6
 
 For more details please refer to the following publication:
 
-Janson, Arnold; Dardor, Dareen; Al-Mass, Mashael; Minier-Matar, Joel; Abdel-Wahab, Ahmed; Adham, Samer. Pressure-Retarded Osmosis for Enhanced Oil Recovery. Desalination. doi: https://doi.org/10.1016/j.desal.2020.573
+Arnold Janson, Dareen Dardor, Mashael Al Maas, Joel Minier-Matar, Ahmed Abdel-Wahab, Samer Adham, Pressure-retarded osmosis for enhanced oil recovery, Desalination, Volume 491, 2020. doi: https://doi.org/10.1016/j.desal.2020.114568
